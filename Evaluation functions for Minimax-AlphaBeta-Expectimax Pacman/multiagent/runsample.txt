@@ -1,0 +1,17 @@
+python pacman.py -n 5 -l capsuleClassic -p MinimaxAgent -a depth=2,evalFn=betterEvaluationFunction -q 
+python pacman.py -n 5 -l mediumClassic -p MinimaxAgent -a depth=2,evalFn=betterEvaluationFunction -q 
+python pacman.py -n 5 -l originalClassic -p MinimaxAgent -a depth=2,evalFn=betterEvaluationFunction -q 
+python pacman.py -n 5 -l contestClassic -p MinimaxAgent -a depth=2,evalFn=betterEvaluationFunction -q 
+python pacman.py -n 5 -l smallClassic -p MinimaxAgent -a depth=2,evalFn=betterEvaluationFunction -q 
+
+python pacman.py -n 5 -l capsuleClassic -p AlphaBetaAgent -a depth=2,evalFn=betterEvaluationFunction -q 
+python pacman.py -n 5 -l mediumClassic -p AlphaBetaAgent -a depth=2,evalFn=betterEvaluationFunction -q 
+python pacman.py -n 5 -l originalClassic -p AlphaBetaAgent -a depth=2,evalFn=betterEvaluationFunction -q 
+python pacman.py -n 5 -l contestClassic -p AlphaBetaAgent -a depth=2,evalFn=betterEvaluationFunction -q 
+python pacman.py -n 5 -l smallClassic -p AlphaBetaAgent -a depth=2,evalFn=betterEvaluationFunction -q 
+
+python pacman.py -n 5 -l capsuleClassic -p ExpectimaxAgent -a depth=2,evalFn=betterEvaluationFunction -q 
+python pacman.py -n 5 -l mediumClassic -p ExpectimaxAgent -a depth=2,evalFn=betterEvaluationFunction -q 
+python pacman.py -n 5 -l originalClassic -p ExpectimaxAgent -a depth=2,evalFn=betterEvaluationFunction -q 
+python pacman.py -n 5 -l contestClassic -p ExpectimaxAgent -a depth=2,evalFn=betterEvaluationFunction -q 
+python pacman.py -n 5 -l smallClassic -p ExpectimaxAgent -a depth=2,evalFn=betterEvaluationFunction -q 

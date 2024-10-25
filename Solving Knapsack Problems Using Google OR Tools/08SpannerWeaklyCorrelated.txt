@@ -1,0 +1,42 @@
+==> File path: /content/picked_test_cases/08SpannerWeaklyCorrelated/n00050.kp
+Size: 50 items, Time taken: 6.74806022644043s
+Total value = 66623
+Total weight = 50933
+Total packed items = 33
+
+
+==> File path: /content/picked_test_cases/08SpannerWeaklyCorrelated/n02000.kp
+Size: 2000 items, Time taken: 120.11145901679993s (time limit exceeded)
+Total value = 9010358
+Total weight = 4623844
+Total packed items = 1009
+
+
+==> File path: /content/picked_test_cases/08SpannerWeaklyCorrelated/n00100.kp
+Size: 100 items, Time taken: 121.48437070846558s (time limit exceeded)
+Total value = 364392
+Total weight = 149256
+Total packed items = 39
+
+
+==> File path: /content/picked_test_cases/08SpannerWeaklyCorrelated/n05000.kp
+Size: 5000 items, Time taken: 128.09846258163452s (time limit exceeded)
+Total value = 12692722
+Total weight = 5025213
+Total packed items = 1671
+
+
+==> File path: /content/picked_test_cases/08SpannerWeaklyCorrelated/n01000.kp
+Size: 1000 items, Time taken: 121.07558393478394s (time limit exceeded)
+Total value = 1564920
+Total weight = 567000
+Total packed items = 278
+
+
+==> File path: /content/picked_test_cases/08SpannerWeaklyCorrelated/n00500.kp
+Size: 500 items, Time taken: 122.76323986053467s (time limit exceeded)
+Total value = 1448877
+Total weight = 647292
+Total packed items = 352
+
+
